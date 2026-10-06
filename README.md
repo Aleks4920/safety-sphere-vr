@@ -4,6 +4,10 @@ A VR workplace safety training simulator developed during vr_HACK 2023.
 ![screenshot](https://cdn.discordapp.com/attachments/1072974368226934806/1079142249750876260/image1.png)
 ![screenshot](https://cdn.discordapp.com/attachments/1072974368226934806/1079142249562112080/image2.png)
 
+**Result:** 2nd place at VR_Hack 2023 (Georgian College and the City of Barrie).
+
+**Tech:** Unity, C#, Meta Quest 2. Includes the third-party AnyUI library asset.
+
 ## Purpose
 **In one sentence: reduce training time, costs, and improve the training experience.**
 
